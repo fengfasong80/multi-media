@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jlayer-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jlayer-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MP3SPI-1.9.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Tritonus-1.4compatible.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

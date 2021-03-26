@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jflac-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jflac-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmactritonusspi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
